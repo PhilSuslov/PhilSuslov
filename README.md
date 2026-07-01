@@ -119,5 +119,5 @@ Backend-сервис для учета подписок и расчета фин
 
 # 📫 Контакты
 
-- Telegram — @YOUR_USERNAME
-- Email — your@email.com
+- Telegram — @onPhil
+- Email — tayge123@mail.ru
