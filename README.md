@@ -98,12 +98,12 @@ Backend-сервис для учета подписок и расчета фин
 # 📈 Статистика GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PhilSuslov&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilSuslov&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PhilSuslov&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilSuslov&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=PhilSuslov&theme=github-dark&hide_border=true" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=PhilSuslov&theme=dark&hide_border=true" />
 </p>
 
 ---
