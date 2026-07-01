@@ -18,7 +18,7 @@ Backend-разработчик на Go.
 - DDD
 - Тестирование
 - CI/CD
-- Наблюдаемость (Observability)
+- Мониторинг (Observability)
 
 ---
 
@@ -41,8 +41,8 @@ Backend-разработчик на Go.
 
 ## Мониторинг
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -98,10 +98,14 @@ Backend-сервис для учета подписок и расчета фин
 # 📈 Статистика GitHub
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PhilSuslov&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PhilSuslov&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilSuslov&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilSuslov&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PhilSuslov&theme=github-dark&hide_border=true"/>
+</p>
 
 </p>
 
