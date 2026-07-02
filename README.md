@@ -27,13 +27,18 @@ Backend-разработчик на Go.
 # 🚀 Технологический стек
 
 ## Backend
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-FF6C37?style=for-the-badge)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ## Инфраструктура
 
