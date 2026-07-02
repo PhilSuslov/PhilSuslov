@@ -8,28 +8,6 @@
 
 ![Demo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-Backend-разработчик на Go.
-
-Увлекаюсь разработкой надежных backend-сервисов, проектированием чистой архитектуры и изучением того, как работают высоконагруженные системы в production.
-
-В настоящее время активно развиваюсь в следующих направлениях:
-
-- Go
-- PostgreSQL
-- Redis
-- MongoDB
-- Kafka
-- gRPC
-- Docker
-- Kubernetes
-- Clean Architecture
-- DDD
-- Тестирование
-- CI/CD
-- Мониторинг (Observability)
-
----
-
 # 🚀 Технологический стек
 
 ## Backend
@@ -56,17 +34,6 @@ Backend-разработчик на Go.
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-# 📚 Сейчас изучаю
-
-- разработку распределенных систем;
-- проектирование высоконагруженных сервисов;
-- внутреннее устройство PostgreSQL;
-- Kubernetes;
-- System Design;
-- оптимизацию производительности Go-приложений.
 
 ---
 
